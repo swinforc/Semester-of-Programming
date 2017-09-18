@@ -1,20 +1,17 @@
 # Semester-of-Programming
-## Repository for Clayton and Christopher's programming project and learning.
 
 ### Topics:
 - Understanding and Learning MySQL
 - Work with Genetic Algorithms
 - Machine Learning with Big Data
-    [Deep Learning
-    Nueral Networks]
+    - Deep Learning
+    - Nueral Networks
 - Hacking Related Topics in Python
 - API's in Python
 - App Development in Python
 - Programming Drones through DroneKit
 - Uses for Raspberry Pi's 
-    [Clusters
-    Hacking]
+     - Clusters
+     - Hacking
 - Server and Client programming
 - Encryption and Cryptography
-- This is my test Commit
-- THIS IS CJ TESTING OUT ANOTHER COMMIT ON PYCHARM
